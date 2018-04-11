@@ -1,0 +1,16 @@
+C:\Users\jsb\Dropbox\Teaching\2165\CSCI.541\Projects\Lab 4\API\MessengerAPI\bin\Debug\netcoreapp1.1\MessengerAPI.deps.json
+C:\Users\jsb\Dropbox\Teaching\2165\CSCI.541\Projects\Lab 4\API\MessengerAPI\bin\Debug\netcoreapp1.1\MessengerAPI.runtimeconfig.json
+C:\Users\jsb\Dropbox\Teaching\2165\CSCI.541\Projects\Lab 4\API\MessengerAPI\bin\Debug\netcoreapp1.1\MessengerAPI.runtimeconfig.dev.json
+C:\Users\jsb\Dropbox\Teaching\2165\CSCI.541\Projects\Lab 4\API\MessengerAPI\bin\Debug\netcoreapp1.1\MessengerAPI.dll
+C:\Users\jsb\Dropbox\Teaching\2165\CSCI.541\Projects\Lab 4\API\MessengerAPI\bin\Debug\netcoreapp1.1\MessengerAPI.pdb
+C:\Users\jsb\Dropbox\Teaching\2165\CSCI.541\Projects\Lab 4\API\MessengerAPI\obj\Debug\netcoreapp1.1\MessengerAPI.AssemblyInfo.cs
+C:\Users\jsb\Dropbox\Teaching\2165\CSCI.541\Projects\Lab 4\API\MessengerAPI\obj\Debug\netcoreapp1.1\MessengerAPI.dll
+C:\Users\jsb\Dropbox\Teaching\2165\CSCI.541\Projects\Lab 4\API\MessengerAPI\obj\Debug\netcoreapp1.1\MessengerAPI.pdb
+C:\Users\jsb\Dropbox\Teaching\2165\CSCI.541\Projects\Lab 4\API\MessengerAPI\obj\Debug\netcoreapp1.1\MessengerAPI.csprojResolveAssemblyReference.cache
+C:\Users\Dipesh  Nainani\Downloads\API\MessengerAPI\bin\Debug\netcoreapp1.1\MessengerAPI.deps.json
+C:\Users\Dipesh  Nainani\Downloads\API\MessengerAPI\bin\Debug\netcoreapp1.1\MessengerAPI.runtimeconfig.json
+C:\Users\Dipesh  Nainani\Downloads\API\MessengerAPI\bin\Debug\netcoreapp1.1\MessengerAPI.runtimeconfig.dev.json
+C:\Users\Dipesh  Nainani\Downloads\API\MessengerAPI\obj\Debug\netcoreapp1.1\MessengerAPI.csprojResolveAssemblyReference.cache
+C:\Users\Dipesh  Nainani\Downloads\API\MessengerAPI\obj\Debug\netcoreapp1.1\MessengerAPI.AssemblyInfo.cs
+C:\Users\Dipesh  Nainani\Downloads\API\MessengerAPI\obj\Debug\netcoreapp1.1\MessengerAPI.dll
+C:\Users\Dipesh  Nainani\Downloads\API\MessengerAPI\obj\Debug\netcoreapp1.1\MessengerAPI.pdb

@@ -1,0 +1,49 @@
+﻿create table "Authors"
+(
+	"AuthorID" serial not null
+		constraint "PK_Authors"
+			primary key,
+	"FName" text,
+	"LName" text not null,
+	"BookId" integer
+)
+;
+
+create index "IX_Authors_BookId"
+	on "Authors" ("BookId")
+;
+
+create table "Books"
+(
+	"BookId" serial not null
+		constraint "PK_Books"
+			primary key,
+	"PublishedDate" timestamp not null,
+	"Title" text
+)
+;
+
+alter table Authors
+	add constraint FK_Authors_Books_BookId
+		foreign key (BookId) references Books
+;
+
+create table "BookAuthor"
+(
+	"BookId" integer not null
+		constraint FK_BookAuthor_Books_BookId
+			references Books
+				on delete cascade,
+	"AuthorId" integer not null
+		constraint FK_BookAuthor_Authors_AuthorId
+			references Authors
+				on delete cascade,
+	constraint "PK_BookAuthor"
+		primary key (BookId, AuthorId)
+)
+;
+
+create index "IX_BookAuthor_AuthorId"
+	on "BookAuthor" ("AuthorId")
+;
+
